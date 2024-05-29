@@ -1,8 +1,8 @@
 # Atlas Hamington
 
-**`Frontend Developer`**
+**`Front-end Developer`**
 
-I am a self-taught frontend developer and passionate about learning new skills with a hardworking effort. I like to solve real-life problems with various tools under my hood.
+I am a self-taught front-end developer, passionate about learning new skills with hard effort. I like to solve real-life problems with various tools under my hood.
 
 ---
 
@@ -20,17 +20,16 @@ I am a self-taught frontend developer and passionate about learning new skills w
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-&nbsp;
 
 #
 
-## I'm a CatFather, Developer, MCU Fan and Technology Nerd!!
+## I'm a CatFather, Developer, MCU Fan, and Technology Nerd!!
 
 - 🌱 I’m currently learning new things
 
 - 🥅 2024 Goals: Learn more about Backend development
 
-- ⚡ Fun fact: I love to sing and playing video games
+- ⚡ Fun fact: I love to sing and play video games
 
 ### 📊 Stats
 
