@@ -1,4 +1,4 @@
-# Atlas Hamington
+# Sible Noman
 
 **`Front-end Developer`**
 
